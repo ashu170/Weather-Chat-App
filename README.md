@@ -68,5 +68,7 @@ npm install
 npm start
 
 ## 👤 Author
-Nishant Nilkanth Wankhede - 22211394
+Ashitosh Kishanrao Wankhede - 12211112
+
+
 SanchAI Analytics Internship Assessment
